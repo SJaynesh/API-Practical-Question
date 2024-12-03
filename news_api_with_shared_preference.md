@@ -94,7 +94,7 @@
      - Allow users to tap on a country to navigate to its details screen.
      - Provide buttons or interactions for saving or removing a preferred country from shared preferences.
 
-2. **Country Details Screen**:
+2. **News Details Screen**:
    - Display comprehensive information about the selected country, such as population, region, languages, and more.
 
 3. **Shared Preferences**:
@@ -105,3 +105,5 @@
 4. **UI/UX Enhancements**:
    - Implement an intuitive and user-friendly layout that includes buttons for saving and removing preferences.
    - Display a message when a country is successfully saved or removed from shared preferences.
+5. **Liked News Headlines Page**:
+   - Implement an Click on the news link and Liked News Headlines will work perfectly.
