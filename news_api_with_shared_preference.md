@@ -12,7 +12,7 @@
 
 **API Endpoint for Country Data :** 
 <br>
- * [News Data]([https://restcountries.com/v3.1/all](https://newsapi.org/docs/endpoints/sources)) 
+ * [News Data](https://newsapi.org/docs/endpoints/sources) 
 
 ---
 
