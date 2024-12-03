@@ -1,4 +1,4 @@
-# `Country Data API with Shared Preferences in Flutter (50 marks)`
+# Country Data API with Shared Preferences in Flutter (50 marks)
 
 <br><br>
 
