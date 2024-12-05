@@ -10,7 +10,7 @@
 
 <br>
 
-**API Endpoint for Country Data :** 
+**API Information:** 
 <br>
 
  * [Multiple Movie Search:](https://www.omdbapi.com/?s=moviename&apikey=APIkey) <br>
