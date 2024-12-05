@@ -47,7 +47,7 @@
 
   -  **a. API Data Integration (10 marks):**
     
-  > * **10 marks:** Correctly implemented API calls for live search and movie details using the http package. JSON data is parsed and displayed accurately.
+  > * **10 marks:** Correctly implemented API calls for fetching cryptocurrency prices and details using the http package. JSON data is parsed and displayed accurately.
   > * **7–9 marks:** API is functional but may have minor issues (e.g., incomplete data handling).
   > * **4–6 marks:** API integration is incomplete or displays incorrect data.
   > * **0–3 marks:** API calls are not implemented or have significant issues.
