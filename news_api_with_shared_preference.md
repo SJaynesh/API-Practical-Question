@@ -63,7 +63,7 @@
   > * **3–4 marks:** Navigation works, but the details screen is missing some data or has layout issues.
   > * **0–2 marks:** Navigation or details screen implementation is missing or broken.
 
-  - **d. Shared Preferences for Saving and Removing News Details (10 marks):**
+  - **d. Shared Preferences for Saving and Removing News Details (5 marks):**
     
   > * **10 marks:** Correct implementation of shared preferences to save and remove a user's selected news. Data persists after the app is closed and reopened.
   > * **7–9 marks:** Shared preferences implementation works, but may lack additional data validation or minor functionality issues.
