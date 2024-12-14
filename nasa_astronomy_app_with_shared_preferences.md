@@ -52,7 +52,7 @@
   > * **4–6 marks:** API integration is incomplete or displays incorrect data.
   > * **0–3 marks:** API calls are not implemented or have significant issues.
 
-  - **b. Astronomy Details Screen (10 Marks):**
+  - **b. Astronomy Details Screen (5 Marks):**
     
   > * **10 marks:**  A well-designed details screen that shows comprehensive astronomy details (e.g., title, date, explanation, image/video).
   > * **7–9 marks:** Details screen is present but lacks some data or design improvements.
