@@ -52,7 +52,7 @@
   > * **4–6 marks:** API integration is incomplete or displays incorrect data.
   > * **0–3 marks:** API calls are not implemented or have significant issues.
   
-  - **b. Crypto Details Screen (10 Marks):**
+  - **b. Crypto Details Screen (5 Marks):**
     
   > * **10 marks:** A well-designed details screen that shows comprehensive cryptocurrency details (e.g., name, current price, market cap, 24-hour change, and logo).
   > * **7-9 marks:** Details screen is present but lacks some data or design improvements.
