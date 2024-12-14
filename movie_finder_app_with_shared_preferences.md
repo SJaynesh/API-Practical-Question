@@ -65,7 +65,7 @@
   > * **3–4 marks:** Details screen is present but lacks some data or design improvements.
   > * **0–2 marks:** Details screen is missing or broken.
 
-  - **d. Shared Preferences for Saving and Removing Favorite Movies  (10 marks):**
+  - **d. Shared Preferences for Saving and Removing Favorite Movies  (5 marks):**
     
   > * **10 marks:** Proper implementation of shared preferences for storing and removing liked movies. Data persists after app restarts.
   > * **7–9 marks:** Shared preferences work but with minor issues (e.g., incorrect updates).
