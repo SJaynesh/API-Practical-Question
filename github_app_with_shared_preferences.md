@@ -59,32 +59,25 @@
   > * **3–4 marks:** Search works but has delays or minor functionality issues.
   > * **0–2 marks:** Search functionality is missing or non-functional.
 
-  - **c. User Details Screen (5 Marks):**
-    
-  > * **5 marks:**  A well-designed details screen that shows comprehensive user details (e.g., avatar, username, bio, followers, following, etc.).
-  > * **3–4 marks:** Details screen is present but lacks some data or design improvements.
-  > * **0–2 marks:** Details screen is missing or broken.
-
-  - **d. User Repositories Screen (5 Marks):**
+  - **c. User Repositories Screen (5 Marks):**
     
   > * **5 marks:** Display a list of the user's repositories (name, description, stars, forks).
   > * **3–4 marks:** Repositories are displayed but the layout is cluttered or lacks data.
   > * **0–2 marks:** Repositories are missing or not displayed correctly.
 
-  - **e. Shared Preferences for Saving and Removing Starred Users  (10 marks):**
+  - **d. Shared Preferences for Saving and Removing Starred Users  (5 marks):**
     
-  > * **10 marks:** Proper implementation of shared preferences for storing and removing starred users. Data persists after app restarts.
-  > * **7–9 marks:** Shared preferences work but with minor issues (e.g., incorrect updates).
-  > * **4–6 marks:** Partial or incorrect implementation of shared preferences.
-  > * **0–3 marks:** Shared preferences are not implemented or functional.
+  > * **5 marks:** Proper implementation of shared preferences for storing and removing starred users. Data persists after app restarts.
+  > * **3-4 marks:** Shared preferences work but with minor issues (e.g., incorrect updates).
+  > * **0–2 marks:** Shared preferences are not implemented or functional.
 
-  - **f. Displaying Starred Users (5 marks):**
+  - **e. Displaying Starred Users (5 marks):**
     
   > * **5 marks:** Saved movies are displayed neatly on the home screen when the app reopens.
   > * **3–4 marks:** Saved data is displayed, but there are minor issues in the UI or logic.
   > * **0–2 marks:** Saved data display is missing or non-functional.
 
-   - **g. Remove Starred Users from Shared Preferences (5 marks):**
+   - **f. Remove Starred Users from Shared Preferences (5 marks):**
     
   > * **5 marks:** Removing users from saved preferences is fully functional and updates the UI correctly.
   > * **3–4 marks:** Remove functionality is present but has minor issues.
